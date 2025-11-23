@@ -3,7 +3,9 @@ It eliminates manual entry by extracting transaction details from uploaded recei
 
 Designed with a scalable backend and modern UI, WealthWise empowers users to gain deeper financial awareness, track budgets, and make informed decisions through AI-powered analytics and personalized spending insights.
 
-**Key Features**
+
+
+**KEY FEATURES**
 
 🤖 AI-based receipt scanning and data extraction
 
@@ -17,7 +19,8 @@ Designed with a scalable backend and modern UI, WealthWise empowers users to gai
 
 🔐 Secure authentication and API protection
 
-🛠️ Tech Stack
+
+TECH STACK
 
 This platform integrates modern frontend technologies, robust backend infrastructure, and AI capabilities:
 
