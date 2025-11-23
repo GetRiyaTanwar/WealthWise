@@ -1,16 +1,38 @@
-The AI-Powered Finance Tracking System [**WealthWise**] is a smart financial management platform that automates expense tracking, receipt scanning, and financial insights using Google Gemini AI. It eliminates manual entry by extracting transaction details from uploaded receipts, categorizing expenses intelligently, and presenting them through a visually rich interactive financial dashboard.
+The WealthWise platform is a smart AI-driven financial management system that automates expense tracking, receipt scanning, and financial insights using Google Gemini AI.
+It eliminates manual entry by extracting transaction details from uploaded receipts, intelligently categorizing expenses, and displaying them through a visually rich interactive financial dashboard.
 
-Designed with a modern UI and scalable backend, this system helps users gain deeper financial awareness, track budgets, and make informed decisions through AI-driven analytics and personalized spending insights.
+Designed with a scalable backend and modern UI, WealthWise empowers users to gain deeper financial awareness, track budgets, and make informed decisions through AI-powered analytics and personalized spending insights.
 
 **Key Features**
 
-✔️ AI-based receipt scanning and data extraction
-✔️ Auto-categorization of expenses (Food, Travel, Shopping, etc.)
-✔️ Interactive financial dashboard (monthly breakdown, charts, trends)
-✔️ Smart budgeting with insights & alerts
-✔️ Recurring transaction tracking and monthly reports
-✔️ Secure authentication and API protection
+🤖 AI-based receipt scanning and data extraction
 
-The platform is built with **Next.js** and styled using **Tailwind CSS** and **ShadCN UI** to deliver a modern and responsive interface. The backend uses Node.js with **Prisma ORM**, connected to a **PostgreSQL (Supabase)** database for secure and efficient data management.
+🗂️ Automatic expense categorization (Food, Travel, Shopping, etc.)
 
-AI functionalities, including receipt scanning and financial insights, are powered by **Google Gemini-2.5-flash** and Text. Secure authentication is handled through **Clerk**, while **ArcJet** protects APIs with rate limiting and security controls. Visual analytics are presented using Recharts, and **Resend API** enables automated email reporting.
+📊 Interactive financial dashboard (charts, trends, monthly breakdown)
+
+💡 Smart budgeting with insights and alerts
+
+🔁 Recurring transaction tracking and monthly reports
+
+🔐 Secure authentication and API protection
+
+🛠️ Tech Stack
+
+This platform integrates modern frontend technologies, robust backend infrastructure, and AI capabilities:
+
+Frontend: Next.js, Tailwind CSS, ShadCN UI
+
+Backend: Node.js with Prisma ORM
+
+Database: PostgreSQL (Supabase)
+
+Authentication: Clerk
+
+AI Integration: Google Gemini 2.5 Flash (Vision & Text)
+
+Data Visualization: Recharts
+
+Security & Rate Limiting: ArcJet
+
+Email Automation: Resend API
